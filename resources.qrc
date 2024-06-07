@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app.ico</file>
+        <file>app.icns</file>
+        <file>zansan.png</file>
+    </qresource>
+</RCC>
