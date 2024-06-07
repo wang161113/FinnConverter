@@ -11,10 +11,13 @@
 - 提供单文件转换与批量转换选项，用户可自由选择。
 ### 4. 离线操作，无需担心文件安全
 - 离线转换更安全！无需上传文件到云端，避免泄露个人资料！
-### 5. 持续更新
+### 5. 使用Qt编写，支持多平台
+- 目前已配置支持windows、Mac
+### 6. 持续更新
 - 未来将支持更多格式进行转换！您也可在评论区留言想要支持的格式转换！
 
-下载安装包：[ https://www.progdomain.com/finnconverter/]( https://www.progdomain.com/finnconverter/ " https://www.progdomain.com/finnconverter/")
+## 安装包下载
+下载windows\mac安装包：[ https://www.progdomain.com/finnconverter/]( https://www.progdomain.com/finnconverter/ " https://www.progdomain.com/finnconverter/")
 
 ## 问题
 mac版本运行FinnConverter.app可能会出现『意外退出/崩溃闪退』问题，可使用MacOS小助手来解决。选择4)对应用进行签名认证
