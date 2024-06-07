@@ -15,3 +15,10 @@
 - 未来将支持更多格式进行转换！您也可在评论区留言想要支持的格式转换！
 
 下载安装包：[ https://www.progdomain.com/finnconverter/]( https://www.progdomain.com/finnconverter/ " https://www.progdomain.com/finnconverter/")
+
+## 问题
+mac版本运行FinnConverter.app可能会出现『意外退出/崩溃闪退』问题，可使用MacOS小助手来解决。选择4)对应用进行签名认证
+![](https://www.progdomain.com/wp-content/uploads/2024/05/截屏2024-05-13-19.33.37.png)
+
+macos小助手下载地址：[https://www.macw.com/mac/1720.html](https://www.macw.com/mac/1720.html "https://www.macw.com/mac/1720.html")
+另外提供网盘地址：[https://pan.baidu.com/s/11QL5v61_jBXeFyaZuweE2A?pwd=yfma](https://pan.baidu.com/s/11QL5v61_jBXeFyaZuweE2A?pwd=yfma "https://pan.baidu.com/s/11QL5v61_jBXeFyaZuweE2A?pwd=yfma") 
