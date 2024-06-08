@@ -1,6 +1,6 @@
 ## FinnConverter简介
 ### 1. 简洁的操作界面
-[![](https://s2.loli.net/2024/05/13/mYGTZoc6S7gfrIi.jpg)](https://s2.loli.net/2024/05/13/mYGTZoc6S7gfrIi.jpg)
+![image-20240608222943622](https://s2.loli.net/2024/06/08/aRlSt9yqK4QdNLh.png)
 ### 2. 支持多种格式相互转换
 - 支持word转pdf；ppt转pdf；raw格式转png/jpng...；其他格式相互转换
 #### 2.1 输入格式支持
@@ -28,4 +28,4 @@ macos小助手下载地址：[https://www.macw.com/mac/1720.html](https://www.ma
 另外提供网盘地址：[https://pan.baidu.com/s/11QL5v61_jBXeFyaZuweE2A?pwd=yfma](https://pan.baidu.com/s/11QL5v61_jBXeFyaZuweE2A?pwd=yfma "https://pan.baidu.com/s/11QL5v61_jBXeFyaZuweE2A?pwd=yfma") 
 
 ## 赞赏
-![zansan.png](https://s2.loli.net/2024/06/08/4h8Y1ibWus2DTAI.png)
+  ![zansan](https://s2.loli.net/2024/06/08/8G3NzUApZabvRnr.jpg)
